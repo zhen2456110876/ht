@@ -6,4 +6,4 @@ tp()tp
 
 tcts()tcts
 
-jc(https://github.com/zhen2456110876/ht/ht.txt)jc
+jc(https://raw.githubusercontent.com/zhen2456110876/ht/main/ht.txt)jc
